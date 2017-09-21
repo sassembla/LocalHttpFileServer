@@ -5,5 +5,5 @@ DOTNET=/Applications/Unity2017.1.0p5/Unity.app/Contents/NetCore/Sdk/dotnet
 # start とかか。
 # stateはrunningとstopped
 $DOTNET restore
-$DOTNET run 127.0.0.1 8081 ../AssetBundles/
+$DOTNET run 127.0.0.1 8081 ../AssetBundles
 
